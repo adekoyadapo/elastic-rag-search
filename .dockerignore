@@ -61,3 +61,6 @@ Desktop.ini
 
 # Ignore Streamlit cache files
 .streamlit/
+
+# infra files
+infra
