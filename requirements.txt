@@ -1,0 +1,6 @@
+streamlit==1.37.1
+elasticsearch==8.14.0
+datetime
+tiktoken==0.7.0
+python-dotenv==1.0.1
+langchain-openai==0.1.22

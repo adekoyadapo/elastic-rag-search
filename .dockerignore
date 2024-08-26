@@ -1,0 +1,63 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment variables
+# .env
+
+# Ignore Dockerfile itself
+Dockerfile
+docker-compose.yml
+
+# Ignore virtual environments
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+env.d/
+envs/
+
+# Ignore git files
+.git/
+.gitignore
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore test coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Streamlit cache files
+.streamlit/
