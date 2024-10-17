@@ -4,3 +4,4 @@ datetime
 tiktoken==0.7.0
 python-dotenv==1.0.1
 langchain-openai==0.1.22
+elastic-apm==6.23.0
